@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+// 백준 2231번 분해합
 public class Algorithm6 {
 
 	public static void main(String[] args) {

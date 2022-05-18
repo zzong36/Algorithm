@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+// 백준 9012번 괄호
 public class Algorithm1 {
 
 	public static void main(String[] args) {
