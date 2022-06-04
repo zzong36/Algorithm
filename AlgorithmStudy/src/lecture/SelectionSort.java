@@ -12,6 +12,7 @@ public class SelectionSort {
 
             int max = 0;
 
+            // for문을 돌며 가장 큰 값의 위치(index)를 찾음
             for(int i =1; i <= lastUnsortedIndex; i++){
                 if(intArray[i] > intArray[max]);
                 max=i;
