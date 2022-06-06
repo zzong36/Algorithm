@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// OX 퀴즈
 public class BJ8958 {
 
     public static void main(String[] args) {

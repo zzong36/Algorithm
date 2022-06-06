@@ -2,6 +2,7 @@ package kopo.day09;
 
 import java.util.Scanner;
 
+// 구구단
 public class BJ2739 {
     public static void main(String[] args) {
 

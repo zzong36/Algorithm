@@ -2,6 +2,7 @@ package kopo.day09;
 
 import java.util.Scanner;
 
+// 시험성적
 public class BJ9498 {
 
 
