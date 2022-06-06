@@ -2,7 +2,7 @@ package kopo.day09;
 
 import java.util.Scanner;
 
-public class Algorithm2753 {
+public class BJ2753 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
