@@ -4,7 +4,7 @@ public class Recursion {
 
     public static void main(String[] args) {
 
-        System.out.println(iterativeFactorial(3);
+        System.out.println(iterativeFactorial(3));
 
     }
 
