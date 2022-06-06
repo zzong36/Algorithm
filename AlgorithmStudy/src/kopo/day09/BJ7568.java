@@ -2,7 +2,7 @@ package kopo.day09;
 
 public class BJ7568 {
 
-//    덩치
+    //    덩치
     public static void main(String[] args) {
 
 
@@ -10,7 +10,6 @@ public class BJ7568 {
 
         solution.solution();
     }
-
 
 }
 

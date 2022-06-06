@@ -2,7 +2,7 @@ package kopo.day09;
 
 import java.util.Scanner;
 
-// 윤녕
+// 윤년
 public class BJ2753 {
 
     public static void main(String[] args) {
