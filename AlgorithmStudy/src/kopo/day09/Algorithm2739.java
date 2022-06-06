@@ -9,13 +9,13 @@ public class Algorithm2739 {
 
         int num = Integer.parseInt(sc.nextLine());
 
-        Solution03 solution = new Solution03();
+        Solution2739 solution = new Solution2739();
 
         solution.solution(num);
     }
 }
 
-class Solution03{
+class Solution2739{
     public void solution(int num){
 
         System.out.printf("%d * 1 = %d%n", num, num*1);

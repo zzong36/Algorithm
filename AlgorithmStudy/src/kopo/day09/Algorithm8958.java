@@ -16,13 +16,13 @@ public class Algorithm8958 {
             input[i] = sc.nextLine();
         }
 
-        Solution solution = new Solution();
+        Solution8958 solution = new Solution8958();
 
         solution.solution(num, input);
     }
 }
 
-class Solution {
+class Solution8958 {
     public void solution(int num, String[] input) {
 
         List<String[]> list = new ArrayList<>();

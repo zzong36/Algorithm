@@ -10,13 +10,13 @@ public class Algorithm9498 {
 
         int score = Integer.parseInt(sc.nextLine());
 
-        Solution01 solution = new Solution01();
+        Solution9498 solution = new Solution9498();
         solution.solution(score);
     }
 
 }
 
-class Solution01 {
+class Solution9498 {
     public void solution(int score) {
         if (score >= 90) {
             System.out.println("A");

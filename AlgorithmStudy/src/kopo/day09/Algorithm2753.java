@@ -9,7 +9,7 @@ public class Algorithm2753 {
 
         int year = Integer.parseInt(sc.nextLine());
 
-        Solution02 solution = new Solution02();
+        Solution2753 solution = new Solution2753();
 
         solution.solution(year);
 
@@ -17,7 +17,7 @@ public class Algorithm2753 {
 
 }
 
-class Solution02 {
+class Solution2753 {
 
     public void solution(int year) {
 
