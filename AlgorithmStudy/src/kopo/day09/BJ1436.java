@@ -2,6 +2,7 @@ package kopo.day09;
 
 import java.util.Scanner;
 
+// 숌감독
 public class BJ1436 {
 
     public static void main(String[] args) {
@@ -16,7 +17,7 @@ public class BJ1436 {
 }
 
 class Solution1436 {
-
+// 숌 감독 지옥의 무비
     public void solution(int input) {
         int cnt = 0;
         int num = 0;

@@ -18,18 +18,19 @@ public class BJ10872 {
     }
 }
 
-class  Solution10872{
+class Solution10872 {
 
-    public void solution(int num){
+    public void solution(int num) {
         System.out.println(recursiveFactorial(num));
     }
-    public static int recursiveFactorial(int num){
+
+    public static int recursiveFactorial(int num) {
         // break condition
-        if(num==0){
+        if (num == 0) {
             return 1;
         }
 
-        return num * recursiveFactorial(num-1);
+        return num * recursiveFactorial(num - 1);
     }
 
 }

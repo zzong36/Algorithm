@@ -20,6 +20,7 @@ public class BJ2753 {
 
 class Solution2753 {
 
+    // 분리하는 습관을 가질 것
     public void solution(int year) {
 
         if(year%4 == 0 && year%100!=0 || year%400==0){
