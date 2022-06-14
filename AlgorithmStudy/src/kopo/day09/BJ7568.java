@@ -52,17 +52,7 @@ class Solution7568 {
             }
             list.add(cnt);
         }
-//        List<Integer> rankList = new ArrayList<>();
-//        for (int i = 0; i < list.size(); i++) {
-//            int rank = 1;
-//            for (int j = 0; j < list.size(); j++) {
-//                if (list.get(i) > list.get(j)) {
-//                    rank++;
-//                }
-//            }
-//            rankList.add(rank);
-//        }
-//
+        
         for (int i = 0; i < list.size(); i++) {
             System.out.print(list.get(i) + " ");
         }
